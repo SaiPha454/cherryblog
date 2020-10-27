@@ -27,7 +27,7 @@
 
 
             <div style="width: 50%;text-align:right" class="form-group mx-auto">
-                {!! Form::submit('Upload', ['class' => 'btn btn-info pull-right']) !!}
+                {!! Form::submit('Save Changes', ['class' => 'btn btn-info pull-right']) !!}
             </div>
             
             
